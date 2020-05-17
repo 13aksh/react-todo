@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import TodoForm from "./components/TodoForm";
 import TodoList from "./components/TodoList";
+import Typography from "@material-ui/core/Typography";
 
 const LOCAL_STORAGE_KEY = "todo_list";
 
@@ -44,15 +45,16 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <Typography style={{ padding: 16 }} variant="h1">
         Todo List
-        <TodoForm addTodo={addTodo} />
-        <TodoList
-          todos={todos}
-          toggleComplete={toggleComplete}
-          removeTodo={removeTodo}
-        />
-      </header>
+      </Typography>
+
+      <TodoForm addTodo={addTodo} />
+      <TodoList
+        todos={todos}
+        toggleComplete={toggleComplete}
+        removeTodo={removeTodo}
+      />
     </div>
   );
 }
