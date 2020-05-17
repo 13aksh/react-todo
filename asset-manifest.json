@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/13aksh/react-todo.git/static/css/main.570969e5.chunk.css",
-    "main.js": "/13aksh/react-todo.git/static/js/main.c86d54fe.chunk.js",
-    "main.js.map": "/13aksh/react-todo.git/static/js/main.c86d54fe.chunk.js.map",
-    "runtime-main.js": "/13aksh/react-todo.git/static/js/runtime-main.e0a124d2.js",
-    "runtime-main.js.map": "/13aksh/react-todo.git/static/js/runtime-main.e0a124d2.js.map",
-    "static/js/2.abe32340.chunk.js": "/13aksh/react-todo.git/static/js/2.abe32340.chunk.js",
-    "static/js/2.abe32340.chunk.js.map": "/13aksh/react-todo.git/static/js/2.abe32340.chunk.js.map",
-    "index.html": "/13aksh/react-todo.git/index.html",
-    "precache-manifest.ea1d07dfb6b74d60a745c94a0692bb45.js": "/13aksh/react-todo.git/precache-manifest.ea1d07dfb6b74d60a745c94a0692bb45.js",
-    "service-worker.js": "/13aksh/react-todo.git/service-worker.js",
-    "static/css/main.570969e5.chunk.css.map": "/13aksh/react-todo.git/static/css/main.570969e5.chunk.css.map",
-    "static/js/2.abe32340.chunk.js.LICENSE.txt": "/13aksh/react-todo.git/static/js/2.abe32340.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/13aksh/react-todo.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-todo/static/css/main.570969e5.chunk.css",
+    "main.js": "/react-todo/static/js/main.7bb08bf5.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.7bb08bf5.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.2353567a.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.2353567a.js.map",
+    "static/js/2.abe32340.chunk.js": "/react-todo/static/js/2.abe32340.chunk.js",
+    "static/js/2.abe32340.chunk.js.map": "/react-todo/static/js/2.abe32340.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "precache-manifest.1a4737b4cf23155b564359624d0cfa15.js": "/react-todo/precache-manifest.1a4737b4cf23155b564359624d0cfa15.js",
+    "service-worker.js": "/react-todo/service-worker.js",
+    "static/css/main.570969e5.chunk.css.map": "/react-todo/static/css/main.570969e5.chunk.css.map",
+    "static/js/2.abe32340.chunk.js.LICENSE.txt": "/react-todo/static/js/2.abe32340.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-todo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0a124d2.js",
+    "static/js/runtime-main.2353567a.js",
     "static/js/2.abe32340.chunk.js",
     "static/css/main.570969e5.chunk.css",
-    "static/js/main.c86d54fe.chunk.js"
+    "static/js/main.7bb08bf5.chunk.js"
   ]
 }
